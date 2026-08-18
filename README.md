@@ -39,22 +39,13 @@ Applied Statistics와 Computer Science를 기반으로 **NLP, RAG, Time Series F
 ---
 
 # 📂 Research Projects
-
 | Project | Description |
 | --- | --- |
-| **ESG Issue Severity Scoring RAG Pipeline** | News & DART 기반 ESG 이슈 심각도 자동 분석 시스템 |
-| **Heat Vulnerability & MCLP Optimization** | 폭염 취약지역 분석 및 무더위쉼터 최적 입지 선정 |
-| **S&P500 Time Series Forecasting** | 통계·딥러닝·Foundation Model 기반 시계열 예측 비교 |
-| **YouTube Comment Sentiment Analysis** | 한국어 댓글 감성 분석 및 대시보드 구축 |
+| **[ESG Issue Severity Scoring RAG Pipeline](https://github.com/jieunpark215/esg-rag-severity-scoring)** | News & DART 기반 ESG 이슈 심각도 자동 분석 시스템 |
+| **[Heat Vulnerability & MCLP Optimization](https://github.com/jieunpark215/heat-vulnerability-mclp)** | 폭염 취약지역 분석 및 무더위쉼터 최적 입지 선정 |
+| **[S&P500 Time Series Forecasting](https://github.com/jieunpark215/sp500-time-series-forecasting-and-model-comparison)** | 통계·딥러닝·Foundation Model 기반 시계열 예측 비교 |
+| **[YouTube Comment Sentiment Analysis](https://github.com/jieunpark215/youtube-comment-sentiment-dashboard)** | 한국어 댓글 감성 분석 및 대시보드 구축 |
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jieunpark215&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieunpark215&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
