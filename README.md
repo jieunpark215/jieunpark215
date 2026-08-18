@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 박지은입니다.
+# 👩🏻‍💻 안녕하세요, 박지은입니다.
 
 데이터를 단순히 분석하는 것을 넘어 **데이터가 생성되고 활용되는 전 과정**을 이해하는 것에 관심이 있습니다.
 
@@ -22,7 +22,7 @@ Applied Statistics와 Computer Science를 기반으로 **NLP, RAG, Time Series F
 
 ---
 
-# 🙋 About Me
+# 🙋🏻‍♀️ About Me
 
 - 🎓 Gachon University
   - Applied Statistics
