@@ -4,21 +4,6 @@
 
 Applied Statistics와 Computer Science를 기반으로 **NLP, RAG, Time Series Forecasting, Knowledge Graph** 분야를 공부하고 있습니다.
 
----
-
-# 🙋 About Me
-
-- 🎓 Gachon University
-  - Applied Statistics
-  - Computer Science (Double Major)
-- 🔬 Interested in
-  - Natural Language Processing (NLP)
-  - Retrieval-Augmented Generation (RAG)
-  - Knowledge Graph
-  - Time Series Forecasting
-  - Data Science
-- ✍️ Blog
-  - https://velog.io/@parkjieun
 
 ---
 
@@ -35,6 +20,22 @@ Applied Statistics와 Computer Science를 기반으로 **NLP, RAG, Time Series F
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
+---
+
+# 🙋 About Me
+
+- 🎓 Gachon University
+  - Applied Statistics
+  - Computer Science (Double Major)
+- 🔬 Interested in
+  - Natural Language Processing (NLP)
+  - Retrieval-Augmented Generation (RAG)
+  - Knowledge Graph
+  - Time Series Forecasting
+  - Data Science
+- ✍️ Blog
+  - https://velog.io/@parkjieun
+ 
 ---
 
 # 📂 Research Projects
