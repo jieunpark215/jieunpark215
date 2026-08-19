@@ -25,11 +25,11 @@
   - Applied Statistics
   - Computer Science (Double Major)
 - 🔬 Interested in
-  - Natural Language Processing (NLP)
+  - Large Language Models (LLMs)
   - Retrieval-Augmented Generation (RAG)
-  - Knowledge Graph
-  - Time Series Forecasting
-  - Data Science
+  - Natural Language Processing (NLP)
+  - Explainable AI (XAI)
+  - Industrial AI
 - ✍️ Blog
   - https://velog.io/@parkjieun
  
